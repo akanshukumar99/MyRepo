@@ -1,2 +1,3 @@
 # MyRepo
-My first repository on git hub
+
+I like :chess:, :coffee:,:Singing:,:Dancing:
